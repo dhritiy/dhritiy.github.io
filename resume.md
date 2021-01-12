@@ -2,7 +2,9 @@
 
  -------------------     ----------------------------
 **Email:** dhritiy@outlook.com
+
 **Website:** [LinkedIn](https://www.linkedin.com/in/dhriti-yandapally-495a27171/)
+
 **Location:** Bellevue, WA
 -------------------     ----------------------------
 
