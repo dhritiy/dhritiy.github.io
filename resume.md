@@ -6,7 +6,7 @@
 **Website:** [LinkedIn](https://www.linkedin.com/in/dhriti-yandapally-495a27171/)
 
 **Location:** Bellevue, WA
--------------------     ----------------------------
+
 
 ## Objective
 >Seeking a position to establish a career which will utilize my skills of data analytics and problem-solving
