@@ -39,7 +39,7 @@ applied related thoughts to create user segmentation and success metrics for Gri
 ### ![alt text](https://raw.githubusercontent.com/dhritiy/dhritiy.github.io/main/CwK%20Logo.PNG) [Coding with Kids](https://www.codingwithkids.com/): Instructor (Feb 2019 - Oct 2019)
 - Taught coding through Scratch to elementary school students during summer camps and after-school bootcamps
 
-### ![alt text](https://raw.githubusercontent.com/dhritiy/dhritiy.github.io/main/Kempo%20Logo.PNG) [Kempo Karate](https://www.universalkempokarate.com/): Assistant Karate Instructor (2014 - 2017
+### ![alt text](https://raw.githubusercontent.com/dhritiy/dhritiy.github.io/main/Kempo%20Logo.PNG) [Kempo Karate](https://www.universalkempokarate.com/): Assistant Karate Instructor (2014 - 2017)
 - Taught karate to kids aged 3 - 7 during the junior class sessions
 
 
