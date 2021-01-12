@@ -60,4 +60,3 @@ applied related thoughts to create user segmentation and success metrics for Gri
 > RDBMS,
 > RStudio,
 > Microsot Office
--------------------
